@@ -1,0 +1,14 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Estudar JavaScript",
+      "descricao": "Praticar manipulação do DOM e Fetch API"
+    },
+    {
+      "id": 2,
+      "titulo": "Finalizar mini projeto",
+      "descricao": "Subir o código para o GitHub"
+    }
+  ]
+}
